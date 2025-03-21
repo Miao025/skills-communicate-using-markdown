@@ -9,3 +9,6 @@ Print ('Hello')
 ```
 Random code
 ```
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
